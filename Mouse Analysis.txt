@@ -1,0 +1,9 @@
+The 4 treatment type results are very consistent as shown by the box plot - there was only 1 outlier in the data set.
+
+There is a positive correlation between the weight of the mice and the tumor size as shown by the scatter plot.  
+The P-Value of 0.84 between the two factors also supports this as it shows little reason to doubt the null hypothesis.
+
+The Capomulin treatment in mouse b128 is effective as shown in the line graph as the tumor size decreased over the time period.
+
+
+
